@@ -1,1 +1,1 @@
-# EventsByKerry
+# Website for Events by Kerry
